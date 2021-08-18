@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": "a19bf553-cdc8-4eff-8f72-72a149675da2",
+      "ProductName": "nokia",
+      "ProductDescription": "its a mobile phone",
+      "Manufacturer": "nokia",
+      "Quantity": 2,
+      "Price": 20000
+    },
+    {
+      "id": "8162a230-7146-49a8-9340-155df641c3b8",
+      "ProductName": "LG",
+      "ProductDescription": "Computer Monitor for gaming",
+      "Manufacturer": "LG",
+      "Quantity": "5",
+      "Price": "50000"
+    },
+    {
+      "id": "18cbf097-a370-4f0c-8955-1f9f522f3132",
+      "ProductName": "Samsung",
+      "ProductDescription": "Refridgerator",
+      "Manufacturer": "samsung",
+      "Quantity": 3,
+      "Price": 20000
+    },
+    {
+      "id": "4bc9973f-74b5-4ff4-aea3-e4fab204b33a",
+      "ProductName": "LG X1",
+      "ProductDescription": "mobile",
+      "Manufacturer": "LG",
+      "Quantity": 4,
+      "Price": 45000
+    },
+    {
+      "id": "75f921c7-eee7-49df-9d01-335d2f1dd32d",
+      "ProductName": "LG X2",
+      "ProductDescription": "mobile",
+      "Manufacturer": "LG",
+      "Quantity": 2,
+      "Price": 35000
+    },
+    {
+      "id": "e8680135-ccd8-434e-807c-1d2de252eee6",
+      "ProductName": "LG X3",
+      "ProductDescription": "mobile",
+      "Manufacturer": "LG",
+      "Quantity": 4,
+      "Price": 55000
+    }
+  ],
+  "users": [
+    {
+      "email": "abh@gmail.com",
+      "password": "123456",
+      "firstname": "abc",
+      "lastname": "def",
+      "location": "hyderabad",
+      "mobilenumber": "123456789"
+    },
+    {
+      "id": "5e788931-ffad-48be-963b-27d38ad10c00",
+      "email": "abh1@gmail.com",
+      "password": "123456789",
+      "firstname": "abc",
+      "location": "abcdef",
+      "mobilenumber": 123456789
+    },
+    {
+      "id": "5eedde35-2f36-461f-8a97-47a977efc09c",
+      "email": "abhinav2697@gmail.com",
+      "password": "123456",
+      "firstname": "Abhinav",
+      "location": "hyderabad",
+      "mobilenumber": 8121511670
+    },
+    {
+      "id": "e1bdcd1f-0d07-4df8-a677-ffd8436ea371",
+      "email": "abhinav@gmail.com",
+      "password": "123456",
+      "firstname": "Abhinav",
+      "location": "hyderabad",
+      "mobilenumber": 8121511670
+    },
+    {
+      "id": "f2660685-af71-44d3-a6b2-1d6939aac518",
+      "email": "abhinav2697@gmail.com",
+      "password": "123456789",
+      "firstname": "Abhinav",
+      "location": "hyderabad",
+      "mobilenumber": 8121511670
+    }
+  ]
+}
