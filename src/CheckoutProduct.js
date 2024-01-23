@@ -23,8 +23,6 @@ function CheckoutProduct(props) {
                 </p>
                 <p className="checkProduct__manufacturer"><small>Manufacturer:{props.Manufacturer}</small></p>
                 <p className="checkProduct__quantity"><small>Quantity:{props.Quantity}</small></p>
-
-                
             
                 <button onClick={removeFromBasket}>Remove from basket</button>
             </div>
