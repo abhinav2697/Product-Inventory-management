@@ -7,7 +7,7 @@ import LoyaltyIcon from '@material-ui/icons/Loyalty';
 
 import './Checkout.css';
 
-import { connect } from "react-redux";
+import {connect} from react-redux;
 
 export function Checkout(props) {     
     return (
