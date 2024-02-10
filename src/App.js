@@ -14,7 +14,7 @@ import './App.css';
 import Products from './Products';
 import Checkout from './Checkout'
 import Admin from '../src/components/Admin';
-
+import {Axios} from axios;
 
 export function App() {
   return (
